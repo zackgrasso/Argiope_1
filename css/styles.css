@@ -1,0 +1,139 @@
+/* Tags ************************************/
+
+    #top {
+      position: absolute;
+      background-color: #B8E4F0;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 800px;
+    }
+
+    #middle {
+      position: absolute;
+      background-color: #B1E693;
+      top: 800px;
+      left: 0;
+      right: 0;
+      height: 800px;
+    }
+
+    #bottom {
+      position: absolute;
+      background-color: #E5B299;
+      top: 1600px;
+      left: 0;
+      right: 0;
+      height: 800px;
+    }
+
+    #footer {
+      position: absolute;
+      background-color: black;
+      top: 2400px;
+      left: 0;
+      right: 0;
+      height: 200px;
+    }
+
+    #spider {
+      position: fixed;
+      z-index: 1;
+      aspect-ration: 1/1;
+      top: 0;
+      right: 50px;
+    }
+
+    #web {
+      position: absolute;
+      z-index: 1;
+      top: 0;
+      right: 50px;
+    }
+
+    #argiope {
+      position: absolute;
+      top: 300px;
+    }
+
+    #orbweaver {
+      position: absolute;
+      top: 350px;
+    }
+
+    #services1 {
+      position: absolute;
+      top: 100px;
+      left: 300px;
+      z-index: 1;
+    }
+
+    #services1details {
+      position: absolute;
+      top: 150px;
+      left: 250px;
+      z-index: 1;
+    }
+
+    #services2 {
+      position: absolute;
+      top: 500px;
+      left: 100px;
+      z-index: 1;
+    }
+
+    #services2details {
+      position: absolute;
+      top: 550px;
+      left: 50px;
+      z-index: 1;
+    }
+
+    #contactinfo {
+      position: absolute;
+      top: 25px;
+      left: 400px;
+      color: white;
+      z-index: 1;
+    }
+
+
+
+
+    h1 {
+      color: black;
+      margin-top: 0;
+      margin-left: 50px;
+    }
+
+    p {
+      color: black;
+      margin-left: 50px;
+    }
+
+
+    img {
+      margin-left: 500px;
+      height: 400px;
+    }
+
+    div {
+      padding-bottom: 50px;
+    }
+
+/*Classes***********************************/
+
+.classname {
+  modification
+}
+
+/*ID****************************************/
+
+#idname {
+  modification
+}
+
+/*only one per page,
+so like for the style sheet to change all id: heading to the same style*/
+
+/*pseudoclasses like hover change style while hovered over, use colon in front*/
